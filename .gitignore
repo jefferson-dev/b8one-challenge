@@ -1,0 +1,8 @@
+# Folder
+coverage
+node_modules
+dist
+
+# Archive
+.DS_Store
+.env
